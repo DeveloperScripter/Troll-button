@@ -1,5 +1,5 @@
 var button = document.createElement("button");
-button.innerHTML = "Click me to Free robux";
+button.innerHTML = "Click me";
 button.style.backgroundColor = "green";
 button.style.color = "white";
 button.style.padding = "10px";
